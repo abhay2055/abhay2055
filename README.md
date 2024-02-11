@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhay2055
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning C++, Java.
+- 🌱 SDE Intern
 - 📫 How to reach me:- abhay205525@gmail.com
 
 <!---
