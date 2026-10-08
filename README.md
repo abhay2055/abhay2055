@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @abhay2055
-- 👀 I’m interested in Software Development
-- 🌱 SDE Intern
+- 👋 Hi, I’m Abhay
+- 🌱 SDE 
 - 📫 How to reach me:- abhay205525@gmail.com
 
 <!---
